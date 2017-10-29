@@ -4,7 +4,12 @@ Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
+This is forked repo from Stephen Grider in Modern React with Redux Tutorials
+
+
+### Topics Learned:
+- The 'most parent component' that uses a particular piece of state needs to be connected to redux.
+
 
 #### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
@@ -12,14 +17,6 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
 > cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
 > npm install
 > npm start
 ```
